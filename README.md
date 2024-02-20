@@ -1,2 +1,2 @@
 # arash-
-a new programming language from QIAU university for fun
+a new programming language from QIAU university guys for fun
